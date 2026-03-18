@@ -12,27 +12,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 M.Sc. Data Science student at **FAU Erlangen-Nürnberg**
-- 💼 4+ years of experience in **software engineering**
-- 🧠 Interested in **Machine Learning, AI systems, and data-driven products**
-- ⚙️ Strong background in **backend development, microservices, CI/CD, and cloud systems**
-- ⚽ Currently building projects in **football analytics and ML prediction systems**
-
----
-
-## 🔭 What I'm Working On
-
-- ⚽ **Football Player Market Value Prediction**
-- 🧠 Strengthening my portfolio for **AI/ML Engineer roles**
-- ☁️ Improving skills in **MLOps, deployment, and production ML systems**
-- 📚 Deepening my understanding of **machine learning systems design**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
