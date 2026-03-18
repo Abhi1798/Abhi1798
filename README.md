@@ -1,12 +1,12 @@
 # Hi 👋, I'm Abhishek Yadav
 
-Software Engineer (AI/ML) | M.Sc. Data Science @ FAU Erlangen-Nürnberg | Backend Systems | ML & Data-Driven Applications | Football Analytics ⚽
+Software Engineer (AI/ML) | M.Sc. Data Science @ FAU Erlangen-Nürnberg | Backend Systems | ML & Data-Driven Applications 
 
 ---
 
 ## 🚀 About Me
 
-* 💻 4+ years of experience in software engineering (C#/.NET, backend systems)
+* 💻 4+ years of experience in software engineering (backend systems)
 * 🧠 Currently focused on Machine Learning, AI systems, and real-world applications
 * ⚽ Building ML models for football analytics and player valuation
 * ☁️ Strong in scalable systems, cloud infrastructure, and CI/CD
@@ -54,22 +54,11 @@ Software Engineer (AI/ML) | M.Sc. Data Science @ FAU Erlangen-Nürnberg | Backen
 
 ---
 
-### 🌐 Frontend (Basic)
+### 🌐 Frontend 
 
 * Angular
 * JavaScript
 * HTML, CSS
-
----
-
-## 📊 Featured Project
-
-### ⚽ Football Player Valuation (ML)
-
-* Built a machine learning model to estimate player market value
-* Applied feature engineering on player performance data
-* Trained regression models and optimized performance
-* Focus on real-world data-driven decision systems
 
 ---
 
@@ -86,7 +75,3 @@ Software Engineer (AI/ML) | M.Sc. Data Science @ FAU Erlangen-Nürnberg | Backen
 * LinkedIn: https://linkedin.com/in/abhishek-ayadav
 
 ---
-
-## ⚡ Fun Fact
-
-I combine software engineering + football + machine learning to turn data into insights.
