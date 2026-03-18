@@ -13,7 +13,6 @@
 </div>
 
 ## 🛠️ Tech Stack
-## Tech Stack & Skills
 
 | Category | Skills |
 |----------|--------|
