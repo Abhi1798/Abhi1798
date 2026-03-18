@@ -13,46 +13,16 @@
 </div>
 
 ## 🛠️ Tech Stack
+## Tech Stack & Skills
 
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</p>
-
-### AI / Data
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ml" width="40" height="40"/>
-</p>
-
-- Machine Learning
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-- scikit-learn
-- pandas
-- NumPy
-
-### Backend / Cloud / DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-</p>
-
-- REST APIs
-- Microservices
-- AWS
-- Docker
-- Redis
-- Git / GitHub
-- GitLab CI/CD
-- Linux
-- Angular
+| Category | Skills |
+|----------|--------|
+| Machine Learning & Data | 1. Machine Learning<br>2. Data Analysis<br>3. Feature Engineering<br>4. Model Evaluation<br>5. scikit-learn<br>6. pandas<br>7. NumPy |
+| Programming Languages | 1. Python<br>2. C# (.NET)<br>3. SQL |
+| Backend Development | 1. REST APIs<br>2. Microservices<br>3. Distributed Systems<br>4. Debugging<br>5. Performance Optimization |
+| Cloud & DevOps | 1. AWS<br>2. Docker<br>3. Redis<br>4. Git<br>5. GitLab CI/CD<br>6. Linux |
+| Frontend | 1. Angular<br>2. JavaScript<br>3. HTML<br>4. CSS |
+| Additional Expertise | 1. Scalable Systems<br>2. CI/CD Automation<br>3. Test-Driven Development<br>4. Agile / Scrum |
 
 ---
 
