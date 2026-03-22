@@ -25,20 +25,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi1798&show_icons=true&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi1798&show_icons=true&locale=en&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi1798&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 ## 🌍 Connect With Me
 
 <p>
